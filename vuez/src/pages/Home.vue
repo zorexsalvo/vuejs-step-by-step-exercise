@@ -1,10 +1,9 @@
 <template>
     <div>
-        <section class="hero is-medium is-warning is-bold">
+        <section class="hero is-small is-info">
             <div class="hero-body">
-                <div class="container">
-                    <h1 class="title">a blog by @zorexsalvo</h1>
-                    <h2 class="subtitle">web developer</h2>
+                <div class="container has-text-centered">
+                    <h4>a blog by <strong>@zorexsalvo</strong></h4>
                 </div>
             </div>
         </section>
@@ -12,6 +11,7 @@
         <br><br>
 
         <div class="container is-fluid" style="margin-left: 100px; margin-right: 100px;">
+
             <div class="columns">
 
                 <div class="column is-two-fifths">
